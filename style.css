@@ -58,6 +58,12 @@ nav button{
     text-align: center;
     margin-top: 100px;
 }
+.separation{
+    height: 3px;
+    background-color: rgb(46, 44, 44);
+    position: relative;
+    z-index: 66;
+}
 .header-content h1{
     font-size: 60px;
     line-height: 70px;
@@ -196,7 +202,7 @@ margin: 20px auto 60px;
 .faq small{
     font-size: 13px;
 }
-/*--------------------footer----------------------*/
+/*---------------footer---------------*/
 
 .footer{
     padding: 50px 15% 100px;
